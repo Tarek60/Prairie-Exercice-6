@@ -1,0 +1,42 @@
+div{
+  height:50px;
+  float: left;
+}
+#block1{
+  background-color: #2ECC71;
+  width:75%;
+  }
+#block2{
+  background-color: #2980B9;
+  width:25%;
+  }
+#block3{
+  background-color: #E74C3C;
+  width:34%;
+  height:100px;
+  }
+#block4{
+  background-color: #E67E22;
+  width:33%;
+  }
+#block5{
+  background-color: #95A5A6;
+  width:33%;
+  }
+#block6{
+  background-color: #F39C12;
+  width:22%;
+  }
+#block7{
+  background-color: #16A085;
+  width:22%;
+  }
+#block8{
+  background-color: #D35400;
+  width:22%;
+  }
+#block9{
+  background-color: #2C3E50;
+  width:100%;
+  height: 200px;
+  }
